@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Photon 1",
+        "device_id": "1111a1111111a1111111",
+        "access_token": "2222b222222222b2222b222222222b22",
+        "switch_pin": "D6",
+        "office": "SF",
+        "room": "Meeting Room 1", 
+        "utc_reboot_hour": "10", 
+        "notes": "Controls Projector"
+    },
+    {
+        "name": "Photon 2",
+        "device_id": "3333333c3333c333",
+        "access_token": 44c44444c44444444c444444c444444",
+        "switch_pin": "D6",
+        "office": "NY",
+        "room": "Meeting Room 2",
+        "utc_reboot_hour": "7",
+        "notes": "Controls TV"
+    }
+]
